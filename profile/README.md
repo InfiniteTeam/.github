@@ -1,12 +1,20 @@
-## Hi there 👋
+<hr>
+<h3 align="center">
+  <img src="./avatar.png" width="200" height="200" />
+  <div>무한한 미래를 만들어갑니다 - SINCE 2018</div>
+  <br>
+</h3>
+<hr>
 
-<!--
+<span align="center">
+  
+  **[소개](#소개) · [Contact Us](#Contact-Me) · [사용 가능한 기술](#사용-가능한-기술) · [프로젝트 리스트](#프로젝트-리스트) · [수상 기록](#수상-기록)**
+  
+</span>
 
-**Here are some ideas to get you started:**
+## 소개
+- 교내 소프트웨어 개발팀 [호산고 데브랩(HosanDevLab)](https://github.com/HosanDevLab) 팀장 (2021~)
+- 디스코드 봇 개발팀 [InfiniteTeam](https://inft.kr) 대표 (2018~)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Contact Us
+- 디스코드 서포트 서버
